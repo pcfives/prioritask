@@ -1,2 +1,2 @@
-# prioritask
+# prioritytask
 bitstream hackthon
